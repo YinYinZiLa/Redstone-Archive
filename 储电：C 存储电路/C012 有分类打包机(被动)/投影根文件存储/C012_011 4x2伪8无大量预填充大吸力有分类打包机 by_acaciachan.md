@@ -2,28 +2,24 @@
 ### 主要信息
 | 字段名称   | 内容           |
 | ---------- | -------------- |
-| 投影标题   |C012_001 2x大量预填充有分类打包机 by_金合欢分享               | 
+| 投影标题   |C012_010 6x全锁无大量预填充大吸力有分类打包机 by_Philgoodinator               | 
 | 适配版本   |1.14+               | 
-| 投影作者   |未知               | 
+| 投影作者   |by_Philgoodinator               | 
 | 视频地址   |未知               | 
-| 作者空间   |最早作者[https://space.bilibili.com/253381316](https://space.bilibili.com/253381316)               | 
+| 作者空间   |未知               | 
 
 ### 其它信息
-      目前主流多填充正常的二倍速分类打包机
-      可追溯最早是由daisy_pig上传 由金合欢分享
-[https://space.bilibili.com/253381316](https://space.bilibili.com/253381316)  
-[https://www.bilibili.com/video/BV1Ji421Y7dQ](https://www.bilibili.com/video/BV1Ji421Y7dQ)
 
 #### 投影下载 Load
 
 > 蓝奏云 → [https://www.lanzoue.com/iW3kp28x996d](https://www.lanzoue.com/iW3kp28x996d)
 
 #### 投影说明
-      暂无
+    六倍速大吸力打包机，无任何bug，放心使用
 
 #### 投影简介
       暂无
-
+    
 #### 已知的BUG
       暂无
 
