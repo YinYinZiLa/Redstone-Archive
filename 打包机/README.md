@@ -79,4 +79,4 @@
 | **C204：4or9合1合成机**   |  |  |  |  |
 | **C301：自适应潜影盒分类器**   |  |  |  |  |
 | C301-026 1.17+ 1wt 丐潜影盒分类 by_Mercedes | [视频连接](https://www.bilibili.com/video/BV1nVc1eRErt) | [[外云]](https://www.mediafire.com/file/alif5mqy5azr2k3/BoxSorter_R_v1.1_by_%25E8%25A1%2580%25E5%25B0%258F%25E6%259D%25BF.litematic/file) | []() |2025/2/22 | 
-| C301-027 1.16+ 1wt 金合欢潜影盒分类v5 by_acaciachan | 无 | [SS](./C301027 1.16+ 1wt 金合欢潜影盒分类v5 by_acaciachan) | []() |2025/2/22 | 
+| C301-027 1.16+ 1wt 金合欢潜影盒分类v5 by_acaciachan | 无 | [SS](./C301027 1.16+ 1wt 金合欢潜影盒分类v5 by_acaciachan.litematic) | []() |2025/2/22 | 
