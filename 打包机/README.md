@@ -35,3 +35,5 @@
 | C101-004 1.16+ 1x错位堆叠打包机v2水道版 by_acaciachan `大吸力` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
 | C101-005 1.16+ 6x打包机 普通版 by_Philgoodinator `大吸力` `少填充` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
 | C101-006 1.16+ 6x打包机 地狱版 by_Philgoodinator `大吸力` `少填充` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
+| C101-007 1.16+ 4x打包机 普通版 by_acaciachan `无残留` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
+| C101-008 1.16+ 4x打包机 大吸力 by_acaciachan `大吸力` `无残留` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
