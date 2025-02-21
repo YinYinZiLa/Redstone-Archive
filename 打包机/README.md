@@ -18,6 +18,8 @@
 > `可全锁` 允许停机时漏斗全锁。
 
 > `无残留` 移除缓存单元，收集物全部进入漏斗。
+
+> `少填充` 只需要填充最顶层漏斗即可。
 ---
 ## 本页面收录作者
 - 金合欢酱 acaciachan  [[ 点击进入空间 ] https://space.bilibili.com/15020053](https://space.bilibili.com/15020053)
@@ -31,3 +33,5 @@
 | C101-002 1.16+ 6x打包机 by_acaciachan `小吸力` `老品牌` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
 | C101-003 1.16+ 1x错位堆叠打包机v1冰道版 by_acaciachan `大吸力` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
 | C101-004 1.16+ 1x错位堆叠打包机v2水道版 by_acaciachan `大吸力` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
+| C101-005 1.16+ 6x打包机 普通版 by_Philgoodinator `大吸力` `少填充` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
+| C101-006 1.16+ 6x打包机 地狱版 by_Philgoodinator `大吸力` `少填充` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
