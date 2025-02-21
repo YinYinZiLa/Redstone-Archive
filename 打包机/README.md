@@ -55,6 +55,10 @@
 | C102-016 1.16+ 3x简易打包机 by_acaciachan | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
 | C102-017 1.16+ 6x 4x5六倍速打包机 by_acaciachan `无残留` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
 | C102-018 1.16+ 3x 3x4x4全向堆叠打包机 by_acaciachan `无残留` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
+| C102-021 1.16+ 4x 外循环打包机 by_acaciachan `无残留` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
+| C102-022 1.16+ 4x 外循环打包机 大吸力 by_acaciachan `无残留` `大吸力` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
+| C102-023 1.16+ 6x 外循环打包机 by_acaciachan `无残留` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
+| C102-024 1.16+ 6x 外循环打包机 大吸力 by_acaciachan `无残留` `大吸力` | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
 | **C103：内循环 无分类打包机**  |  |  |  |  |
 | **C104：外循环 无分类打包机**  |  |  |  |  |
 | **C111：内循环 混杂打包机**  |  |  |  |  |
