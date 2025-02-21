@@ -12,6 +12,10 @@
   - C202: 4合1合成机
   - C203: 9合1合成机
   - C204：4or9合成机
+- C3：分类器
+  - C301：潜影盒分类器
+  - C302：自适应潜影盒分类器
+
 ---
 
 ## 标签、解释
@@ -33,7 +37,7 @@
 - 金合欢酱 acaciachan  [[ 点击进入空间 ] https://space.bilibili.com/15020053](https://space.bilibili.com/15020053)
 - Philgoodinator *连接未知*
 - DiTang_CN [[ 点击进入空间 ] https://space.bilibili.com/3493074544101981](https://space.bilibili.com/3493074544101981)
-
+- 血小板 Mercedes [[ 点击进入空间 ] https://space.bilibili.com/3493263910635905](https://space.bilibili.com/3493263910635905)
 ---
 **C1系列 (打包机)**
 
@@ -73,3 +77,5 @@
 | **C203：9合1合成机** `黏液块类`  |  |  |  |  |
 | C203-025 1.21+ 6x 9合1静音无粉合成机 by_DiTang_CN | [视频连接](https://www.bilibili.com/video/BV1wotUeMEUP) | [[蓝奏云]](https://wwrj.lanzouw.com/izvTm2akqa2b)密码：ARTS | []() |2025/2/22 | 
 | **C204：4or9合1合成机**   |  |  |  |  |
+| **C302：自适应潜影盒分类器**   |  |  |  |  |
+| C301-026 1.17+ 1wt 丐潜影盒分类 by_Mercedes | [视频连接](https://www.bilibili.com/video/BV1nVc1eRErt) | [[外云]](https://www.mediafire.com/file/alif5mqy5azr2k3/BoxSorter_R_v1.1_by_%25E8%25A1%2580%25E5%25B0%258F%25E6%259D%25BF.litematic/file) | []() |2025/2/22 | 
