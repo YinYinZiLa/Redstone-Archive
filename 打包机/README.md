@@ -69,5 +69,7 @@
 | **C201：5:4合成机** `海晶灯`  |  |  |  |  |
 | C201-019 1.20+ 5e4合成打包机v1(海晶灯) by_acaciachan | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
 | C201-020 1.20+ 5e4合成打包机v2(海晶灯) by_acaciachan | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
+| **C202：4合1合成机**   |  |  |  |  |
 | **C203：9合1合成机** `黏液块类`  |  |  |  |  |
 | C203-025 1.21+ 6x 9合1静音无粉合成机 by_DiTang_CN | [视频连接](https://www.bilibili.com/video/BV1wotUeMEUP) | [[蓝奏云]](https://wwrj.lanzouw.com/izvTm2akqa2b)密码：ARTS | []() |2025/2/22 | 
+| **C204：4or9合1合成机**   |  |  |  |  |
