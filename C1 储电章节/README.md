@@ -54,7 +54,7 @@
 
 ---
 **C1系列 (打包机)**
-| **C111：内循环 混杂打包机**  |  |  |  |  |
+| **C111：内循环 混杂打包机**  |  视频连接 | 站外下载 | 站内简介 | 上传日期 |
 | :-- | :-- | :-- | :-- | :-- |
 | C111-014 1.16+ 6x全检混杂打包机v4 by_acaciachan | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
 | C111-015 1.16+ 6x全检混杂打包机v5 by_acaciachan | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/21 | 
