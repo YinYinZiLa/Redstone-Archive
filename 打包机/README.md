@@ -140,3 +140,7 @@
 | C302-064 1.17+ 8gt单种类盒子分离器 by_77 | 无 | 请查归档码 | []() |2025/2/22 | 
 | **C302：潜影盒容量检测器**   |  |  |  |  |
 | C303-065 1.17+ 8gt四分仪 3x4x6 by_Acvvb | 无 | 请查归档码 | []() |2025/2/22 | 
+=======
+| C301-026 1.17+ 1wt 丐潜影盒分类 by_Mercedes | [视频连接](https://www.bilibili.com/video/BV1nVc1eRErt) | [[外云]](https://www.mediafire.com/file/alif5mqy5azr2k3/BoxSorter_R_v1.1_by_%25E8%25A1%2580%25E5%25B0%258F%25E6%259D%25BF.litematic/file) | []() |2025/2/22 | 
+| C301-027 1.16+ 1wt 金合欢潜影盒分类v5 by_acaciachan `老品牌`| 无 | C301027 | []() |2025/2/22 | 
+
