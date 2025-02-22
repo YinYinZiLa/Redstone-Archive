@@ -8,6 +8,7 @@
   - C111：内循环 混杂打包机
   - C112：外循环 混杂打包机
   - C113：精密打包机特典
+  - C121：自适应打包机
 - C2：合成机
   - C201：5:4合成机 `海晶灯`
   - C202: 4合1合成机
@@ -76,6 +77,10 @@
 | C113-033 1.15+ 1x 精密打包机v2 单片堆叠 by_CommandLeo | 无 | 请查归档码 | []() |2025/2/22 | 
 | C113-034 1.15+ 1x 精密打包机v3 单片 by_CommandLeo | 无 | 请查归档码 | []() |2025/2/22 | 
 | C113-035 1.15+ 1x 精密打包机v3 单片堆叠 by_CommandLeo | 无 | 请查归档码 | []() |2025/2/22 | 
+| **C121：自适应打包机**  |  |  |  |  |
+| C121-067 1.19+ 1x 全锁自适应打包机_01  20片-带主控 by_29 | [视频连接](https://www.bilibili.com/video/BV1SwqGYDE23) | [蓝奏云](https://wwwr.lanzoul.com/i5edP2hqx0ti) | []() |2025/2/22 | 
+| C121-068 1.19+ 1x 全锁自适应打包机_02  20片-带主控(测试版) by_29 | [视频连接](https://www.bilibili.com/video/BV1SwqGYDE23) | [蓝奏云](https://wwwr.lanzoul.com/i5edP2hqx0ti) | []() |2025/2/22 | 
+| C121-069 1.19+ 1x 全锁自适应打包机_03  单片 by_29 | [视频连接](https://www.bilibili.com/video/BV1SwqGYDE23) | [蓝奏云](https://wwwr.lanzoul.com/i5edP2hqx0ti) | []() |2025/2/22 | 
 | **C201：5:4合成机** `海晶灯`  |  |  |  |  |
 | C201-019 1.20+ 5e4合成打包机v1(海晶灯) by_acaciachan | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
 | C201-020 1.20+ 5e4合成打包机v2(海晶灯) by_acaciachan | [视频连接](https://www.bilibili.com/video/BV1Ji421Y7dQ) | [[蓝奏云]](https://www.lanzoue.com/iW3kp28x996d) [[123盘]](https://www.123pan.com/s/okJUVv-wlxn3) | []() |2025/2/22 | 
