@@ -35,22 +35,24 @@
 > `有打包` 本机器自带打包机
 ---
 ## 本页面收录作者
-- 金合欢酱 acaciachan  [[ 点击进入空间 ] https://space.bilibili.com/15020053](https://space.bilibili.com/15020053)
-- Philgoodinator *连接未知*
-- DiTang_CN [[ 点击进入空间 ] https://space.bilibili.com/3493074544101981](https://space.bilibili.com/3493074544101981)
-- 血小板 Mercedes [[ 点击进入空间 ] https://space.bilibili.com/3493263910635905](https://space.bilibili.com/3493263910635905)
-- 音音子 lgyn *连接未知*
-- CommandLeo *连接未知*
-- ilmango *连接未知*
-- Enxulansis *连接未知*
-- 77 *连接未知*
-- bbubbadevlin *连接未知*
-- Auraa *连接未知*
-- RS_DKH_2157 *连接未知*
-- bipim *连接未知*
-- YIXING_Alien_666 *连接未知*
-- OreoLamp *连接未知*
-- air *连接未知*
+| 收录序号 | **作者名称**  | 别名 | 空间连接 |
+| :-- | :-- | :-- | :-- |
+| 1 | acaciachan | 金合欢 | [https://space.bilibili.com/15020053](https://space.bilibili.com/15020053) |
+| 2 | Philgoodinator |  |  |
+| 3 | DiTang_CN |  | [https://space.bilibili.com/3493074544101981](https://space.bilibili.com/3493074544101981) |
+| 4 | Mercedes | 血小板 | [https://space.bilibili.com/3493263910635905](https://space.bilibili.com/3493263910635905) |
+| 5 | lgyn | 音音子 |  |
+| 6 | CommandLeo |  |  |
+| 7 | ilmango |  |  |
+| 8 | Enxulansis |  |  |
+| 9 | 77 |  |  |
+| 10 | bbubbadevlin |  |  |
+| 11 | Auraa |  |  |
+| 12 | RS_DKH_2157 |  |  |
+| 13 | bipim |  |  |
+| 14 | YIXING_Alien_666 |  |  |
+| 15 | OreoLamp |  |  |
+| 16 | air |  |  |
 
 ---
 **C1系列 (打包机)**
