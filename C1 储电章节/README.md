@@ -37,16 +37,16 @@
 ---
 ## 本页面收录作者
 | 收录序号 | **作者名称**  | 别名 | 空间连接 |
-| :-- | :-- | :-- | :-- |
-| 1 | acaciachan | 金合欢 | [https://space.bilibili.com/15020053](https://space.bilibili.com/15020053) |
-| 2 | Philgoodinator |  |  |
-| 3 | DiTang_CN |  | [https://space.bilibili.com/3493074544101981](https://space.bilibili.com/3493074544101981) |
-| 4 | Mercedes | 血小板 | [https://space.bilibili.com/3493263910635905](https://space.bilibili.com/3493263910635905) |
-| 5 | lgyn | 音音子 |  |
-| 6 | CommandLeo |  |  |
-| 7 | ilmango |  |  |
-| 8 | Enxulansis |  |  |
-| 9 | 77 |  |  |
+| :--: | :--: | :--: | :-- |
+| 01 | acaciachan | `金合欢` | [https://space.bilibili.com/15020053](https://space.bilibili.com/15020053) |
+| 02 | Philgoodinator |  |  |
+| 03 | DiTang_CN |  | [https://space.bilibili.com/3493074544101981](https://space.bilibili.com/3493074544101981) |
+| 04 | Mercedes | `血小板` | [https://space.bilibili.com/3493263910635905](https://space.bilibili.com/3493263910635905) |
+| 05 | lgyn | `音音子` |  |
+| 06 | CommandLeo |  |  |
+| 07 | ilmango |  |  |
+| 08 | Enxulansis |  |  |
+| 09 | Saitama777 | `77` | [https://space.bilibili.com/13368383](https://space.bilibili.com/13368383) |
 | 10 | bbubbadevlin |  |  |
 | 11 | Auraa |  |  |
 | 12 | RS_DKH_2157 |  |  |
@@ -55,7 +55,7 @@
 | 15 | OreoLamp |  |  |
 | 16 | air |  |  |
 | 17 | 29 |  | [https://space.bilibili.com/86969415](https://space.bilibili.com/86969415) |
-| 18 | 小屑跑人 |  | [https://space.bilibili.com/295324138](https://space.bilibili.com/295324138) |
+| 18 |  | `小屑跑人` | [https://space.bilibili.com/295324138](https://space.bilibili.com/295324138) |
 
 ---
 **C1系列 (打包机)**
