@@ -98,32 +98,17 @@
 > `伪8倍` `伪12倍` 伪8倍是2个4倍组合 伪12倍是2个6倍组合
 
 > `有打包` 本机器自带打包机
+
 ---
-## 本页面收录作者
-| 收录序号 | **作者名称**  | 别名 | 空间连接 |
-| :--: | :--: | :--: | :-- |
-| 01 | acaciachan | `金合欢` | [https://space.bilibili.com/15020053](https://space.bilibili.com/15020053) |
-| 02 | Philgoodinator |  |  |
-| 03 | DiTang_CN |  | [https://space.bilibili.com/3493074544101981](https://space.bilibili.com/3493074544101981) |
-| 04 | Mercedes | `血小板` | [https://space.bilibili.com/3493263910635905](https://space.bilibili.com/3493263910635905) |
-| 05 | lgyn | `音音子` |  |
-| 06 | CommandLeo |  |  |
-| 07 | ilmango |  |  |
-| 08 | Enxulansis |  |  |
-| 09 | Saitama777 | `77` | [https://space.bilibili.com/13368383](https://space.bilibili.com/13368383) |
-| 10 | bbubbadevlin |  |  |
-| 11 | Auraa |  |  |
-| 12 | RS_DKH_2157 |  |  |
-| 13 | bipim |  |  |
-| 14 | YIXING_Alien_666 |  |  |
-| 15 | OreoLamp |  |  |
-| 16 | air |  |  |
-| 17 | 29 |  | [https://space.bilibili.com/86969415](https://space.bilibili.com/86969415) |
-| 18 |  | `小屑跑人` | [https://space.bilibili.com/295324138](https://space.bilibili.com/295324138) |
 
 ## 本页面收录作者
+
+> 同作者多ID会引用多名称
+
+> 无中文名为未标注，只要有一个作品被收纳则就会被记录，排名不分先后无序排列。
+
 | 收录序号 | **作者名称**  | 别名 | 空间连接 |
-| :--: | :--: | :--: | :--: |
+| :--: | :-- | :-- | :-- |
 | 01 | `acaciachan` | `金合欢` | [https://space.bilibili.com/15020053](https://space.bilibili.com/15020053) |
 | 02 | `RS_DKH_2157` |  |  |
 | 03 | `OreoLamp` |  |  |
